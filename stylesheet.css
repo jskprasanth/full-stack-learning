@@ -2,3 +2,11 @@ p{
     background: blue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.hi{
+    font-size: large;
+}
+
+#id{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
