@@ -20,16 +20,18 @@ p{
 }
 
 .btn{
-    background-color:#fff;
-    border: 2px solid  blue;
+    background-color:#4267B2;
+    border:none;
     border-radius: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    
     margin:5px 10px 5px 10px; 
+    color:#fff;
 }
 
 .mrg h2{
     background-color: rgb(152, 231, 152);
     width: auto;
-    max-width: 5000px;
+    font-weight: bold;
+    text-align: justify;
+    text-shadow:2px 1px #fdc447;
 }
