@@ -18,3 +18,11 @@ p{
     background-size: cover;
     background-position: center;
 }
+
+.btn{
+    background-color: blue;
+    border: 2px solid #FFF;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
