@@ -45,3 +45,41 @@ p{
 .anc a:active{
     color: blue;
 }
+
+table{
+    width: 50% ;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th{
+    font-size: 20px;
+    padding: 15px;
+    background-color: lightblue;;
+}
+
+td{
+    padding: 15px;;
+}
+
+tr:hover{
+    background-color: blue
+}
+
+tr:nth-child(even){
+    background-color: violet;
+}
+
+ul li a{
+    color: green;
+
+}
+
+li{
+    display: inline;
+    margin-right: 60px;
+}
+
+/*#dis h1{
+    visibility: hidden;
+/*
