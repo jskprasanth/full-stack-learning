@@ -1,5 +1,5 @@
 p{
-    background: blue;
+    background: none    ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .hi{
@@ -82,4 +82,52 @@ li{
 
 /*#dis h1{
     visibility: hidden;
-/*
+*/
+
+.float{
+    background-color: darkgray;
+    padding: 30px;
+
+}
+
+.float img{
+    float: left;
+    background-color: orangered;
+    padding: 5px;
+    margin-right: 50px;
+}
+
+#flt-ex >div {
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+}
+.green{
+    float: left ;
+    background-color: green;
+}
+
+.red{
+    float: right;
+    background-color: orangered;
+}
+
+.blue{
+    float: left;
+    background-color: lightblue;
+}
+
+.yellow{
+    float: left;
+    background-color: yellow;
+}
+
+.orange{
+    float: right;
+    background-color: orange;
+}
+
+.clear
+{
+    clear:both;
+}
