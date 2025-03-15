@@ -35,3 +35,13 @@ p{
     text-align: justify;
     text-shadow:2px 1px #fdc447;
 }
+
+.anc a{
+    color: black;
+}
+.anc a:hover{
+    color: burlywood;
+}
+.anc a:active{
+    color: blue;
+}
