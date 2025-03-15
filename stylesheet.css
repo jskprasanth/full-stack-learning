@@ -20,9 +20,16 @@ p{
 }
 
 .btn{
-    background-color: blue;
-    border: 2px solid #FFF;
+    background-color:#fff;
+    border: 2px solid  blue;
     border-radius: 5px;
-    padding: 5px;
-    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin:5px 10px 5px 10px; 
+}
+
+.mrg h2{
+    background-color: rgb(152, 231, 152);
+    width: auto;
+    max-width: 5000px;
 }
